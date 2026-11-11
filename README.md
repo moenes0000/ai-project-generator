@@ -158,14 +158,9 @@ Example request:
 The response contains the generated project information, including features, tasks and development phases.
 
 ## Screenshots
+<img width="696" height="812" alt="project generator " src="https://github.com/user-attachments/assets/004ac543-54e1-4614-a0f4-da84fb63b2a0" />
 <img width="756" height="841" alt="result 1" src="https://github.com/user-attachments/assets/b8e8d609-f693-41fc-93b8-d0d81d771812" />
 <img width="822" height="780" alt="result 2" src="https://github.com/user-attachments/assets/d8937f6a-68c3-4f1b-9558-ad7350e71b58" />
-<img width="696" height="812" alt="project generator " src="https://github.com/user-attachments/assets/004ac543-54e1-4614-a0f4-da84fb63b2a0" />
-
-![Main Interface](docs\screenshots\project generator .png)
-![Main Interface](docs\screenshots\result 1 .png )
-![Main Interface](docs\screenshots\result 2.png)
-
 
 ## What I Learned
 
