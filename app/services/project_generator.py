@@ -8,6 +8,8 @@ def generate_project(project: ProjectRequest) -> ProjectResponse:
     prompt = build_project_prompt(project)
 
     generated_text = generate_with_ollama(prompt)
+    print("REPONSE BRUTE DE QWEN :")
+    print(repr(generated_text))
 
     generated_data = json.loads(generated_text)
 
